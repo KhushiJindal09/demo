@@ -1,2 +1,3 @@
 Hello, this is the original content.
 Change from branch1.
+Change from branch1.
